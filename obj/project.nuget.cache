@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "sJxQLtj/T64=",
+  "success": true,
+  "projectFilePath": "/Users/gmonjealex/Documents/Proyectos Personales/ProyectoClinica/clinica-backend/clinica-backend.csproj",
+  "expectedPackageFiles": [
+    "/Users/gmonjealex/.nuget/packages/microsoft.aspnetcore.openapi/9.0.8/microsoft.aspnetcore.openapi.9.0.8.nupkg.sha512",
+    "/Users/gmonjealex/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
